@@ -1,0 +1,58 @@
+body {
+    background-color: #20b2aa;
+    font-family: Helvetica, sans-serif;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+#peopleContainer{
+    margin: 40px 0px 40px 20px;
+}
+
+.index-point {
+    width: 25px;
+    height: 25px;
+    background-color: #dad5d2;
+    border: 1px solid black;
+    float: left;
+    display: inline-block;
+}
+
+.index-point-active {
+    background-color: #ee100d;
+}
+
+.person-shoutout {
+    height: 200px;
+}
+
+.name {
+    float: left;
+    margin: 10px 10px 10px 10px;
+    border: 2px solid white;
+    padding: 10px 0px;
+    border-radius: 6px;
+    text-align: center;
+    width: 18%;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.next {
+    height: 30px;
+    width: 100px;
+    border: 1px solid white;
+    border-radius: 6px;
+}
+
+.prev {
+    height: 30px;
+    width: 100px;
+    border: 1px solid white;
+    border-radius: 6px;
+}
